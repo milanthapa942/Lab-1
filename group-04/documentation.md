@@ -5,6 +5,10 @@
 - Arturs Medzevics
 - Camilla Roinevirta
 
+**Date:** 7 September 2026
+
+---
+
 ## Three-Layer Cardstock Construction
 
 ### Overview
