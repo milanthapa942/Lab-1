@@ -4,7 +4,7 @@
 
 - **Group number:** Group 1
 - **Group name:** HAMK Group1
-- **Team members:**Napolyon Ahmed,sudesh sandaruwan
+- **Team members:** Napolyon Ahmed,sudesh sandaruwan
 - **Project:** Robot Pick-and-Place
 
 ---
