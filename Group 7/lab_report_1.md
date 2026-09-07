@@ -9,12 +9,12 @@
 
 ### Overview
 
-![Group 7/Images/Picture1.jpg]()
+![Picture 1](./Images/Picture1.jpg)
 The cards are constructed of **four** individual and differently coloured layers stacked on top of eachother
 
 ### Layer Configuration
 
-![Group 7/Images/Picture2]()
+![Picture 2](./Images/Picture2.jpg)
 The construction consists of the following layers, arranged sequentially from **front to back**:
 
 | Layer | Element | Color | Position |
@@ -27,7 +27,7 @@ The construction consists of the following layers, arranged sequentially from **
 
 ## Layer 1 — Frame
 
-![Group 7/Images/Picture3]()
+![Picture 3](./Images/Picture3.jpg)
 **Position:** Front
 
 **The first layer is the frame of the picture.**
@@ -38,7 +38,7 @@ The layer consists of **a rectangular frame**. A basic black frame surrounding t
 
 ## Layer 2 — Snowman layer
 
-![Group 7/Images/Picture4]()
+![Picture 4](./Images/Picture4.jpg)
 **Position:** Behind the Frame
 
 The second layer is a cutout of a **snowman**
@@ -51,7 +51,7 @@ This layer also contains **snow** to add more depth to this card.
 
 ## Layer 3 — Tree layer
 
-![Group 7/Images/Picture5]()
+![Picture 5](./Images/Picture5.jpg)
 **Position:** Behind the snowman
 
 The third layer contains a **pine tree**, that is added to bring more greenery into this Christmas card. 
@@ -60,7 +60,7 @@ This layer only consists of a single **green** tree.
 
 ## Layer 4 — The background
 
-![Group 7/Images/Picture6]()
+![Picture 6](./Images/Picture6.jpg)
 **Position:** Background
 
 The background only consists od an uncut, blue layer of paper
