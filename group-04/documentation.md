@@ -10,11 +10,11 @@ The construction consists of **three individual layers of cardstock**, assembled
 
 The construction is composed of the following layers, arranged sequentially from **front to back**:
 
-| Layer | Element | Material | Position |
+| Layer | Element | Color | Position |
 |---|---|---|---|
-| **1** | Face Layer | Black cardstock | Front |
-| **2** | Pumpkin Layer | Pumpkin element | Middle |
-| **3** | Background Layer | Grey cardstock | Rear |
+| **1** | Face Layer | Black | Front |
+| **2** | Pumpkin Layer | Yellow | Middle |
+| **3** | Background Layer | Grey | Rear |
 
 ---
 
