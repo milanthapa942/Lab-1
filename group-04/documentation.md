@@ -9,7 +9,7 @@
 
 ### Overview
 
-![tiggas in paris](1000016016.jpg)
+![tiggas in paris](Images/1000013720.jpg)
 The construction consists of **three individual layers of cardstock**, assembled to create a dimensional cat-and-pumpkin composition.
 
 ### Layer Configuration
