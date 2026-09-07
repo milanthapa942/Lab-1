@@ -15,21 +15,19 @@
 
 ### Goal
 
-Our goal was to test whether the robot could pick up an orange cube.
+Create image using by card manually,and measure the time taken by creation.
 
 ### Work Completed
 
-We connected the suction gripper to the Dobot MSG400. We placed an orange cube in front of the robot and programmed the robot to pick it up.
-
-The robot dropped the cube during the first test. We adjusted the gripper and tested it again. The robot then picked up the cube successfully four times.
+We made image using by papers, and cut the image draft and glou in it and past accordingly,and calculate the time take. 
 
 ![Robot arm and orange cubes](images/example-robot-gripper.jpg)
-
+![alt text](1.jpeg) ![alt text](2.jpeg) ![alt text](3.jpeg)
 **Figure 1:** The robot arm and orange cubes before the test.
 
 ### Conclusion and Next Step
 
-The robot successfully picked up the cube. In the next session, we will program the robot to move the cube to another position.
+We have to compare the time consuming by robot to do the same.
 
 ---
 
