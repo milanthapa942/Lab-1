@@ -58,6 +58,7 @@ The third layer consists of a **single, uncut sheet of grey cardstock**.
 
 No shapes, openings, or other cut details are incorporated into this layer.
 
+---
 
 ## Time Table
 
