@@ -1,13 +1,20 @@
 # Documentation
 
+## Team Members
+
+- Arturs Medzevics
+- Camilla Roinevirta
+
 ## Three-Layer Cardstock Construction
 
 ### Overview
 
+![tiggas in paris](1000016016.jpg)
 The construction consists of **three individual layers of cardstock**, assembled to create a dimensional cat-and-pumpkin composition.
 
 ### Layer Configuration
 
+![tiggas in paris](1000016015.jpg)
 The construction is composed of the following layers, arranged sequentially from **front to back**:
 
 | Layer | Element | Color | Position |
@@ -20,6 +27,7 @@ The construction is composed of the following layers, arranged sequentially from
 
 ## Layer 1 — Face Layer
 
+![tiggas in paris](1000016018.jpg)
 **Position:** Front
 
 The first layer forms the **primary visual surface** of the construction.
@@ -30,6 +38,7 @@ The layer consists of a **cat-shaped design contained within a rectangular frame
 
 ## Layer 2 — Pumpkin Layer
 
+![tiggas in paris](1000016019.jpg)
 **Position:** Behind the face layer
 
 The second layer contains the **pumpkin element**.
@@ -42,8 +51,18 @@ In addition to forming the visible pumpkin, this layer provides the **colour vis
 
 ## Layer 3 — Background Layer
 
+![tiggas in paris](1000016020.jpg)
 **Position:** Rear
 
 The third layer consists of a **single, uncut sheet of grey cardstock**.
 
 No shapes, openings, or other cut details are incorporated into this layer.
+
+
+## Time Table
+
+| Lap | Lap Time | Total Time |
+|:---:|:--------:|-----------:|
+| **1** | +01:33 | 01:33 |
+| **2** | +01:41 | 03:14 |
+| **3** | +01:51 | 05:05 |
