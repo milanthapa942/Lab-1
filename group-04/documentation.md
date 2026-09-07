@@ -14,7 +14,7 @@ The construction consists of **three individual layers of cardstock**, assembled
 
 ### Layer Configuration
 
-![tiggas in paris](1000016015.jpg)
+![tiggas in paris](Images/1000013723.jpg)
 The construction is composed of the following layers, arranged sequentially from **front to back**:
 
 | Layer | Element | Color | Position |
@@ -27,7 +27,7 @@ The construction is composed of the following layers, arranged sequentially from
 
 ## Layer 1 — Face Layer
 
-![tiggas in paris](1000016018.jpg)
+![tiggas in paris](Images/1000013727.jpg)
 **Position:** Front
 
 The first layer forms the **primary visual surface** of the construction.
@@ -38,7 +38,7 @@ The layer consists of a **cat-shaped design contained within a rectangular frame
 
 ## Layer 2 — Pumpkin Layer
 
-![tiggas in paris](1000016019.jpg)
+![tiggas in paris](Images/1000013729.jpg)
 **Position:** Behind the face layer
 
 The second layer contains the **pumpkin element**.
