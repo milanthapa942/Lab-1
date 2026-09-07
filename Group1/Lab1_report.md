@@ -23,6 +23,9 @@ We made image using by papers, and cut the image draft and glou in it and past a
 
 ![Robot arm and orange cubes](images/example-robot-gripper.jpg)
 ![alt text](1.jpeg) ![alt text](2.jpeg) ![alt text](3.jpeg)
+1 image time taken 29 seconds
+2nd image taken 30 seconds
+and 3rd image taken 31 seconds
 **Figure 1:** The robot arm and orange cubes before the test.
 
 ### Conclusion and Next Step
