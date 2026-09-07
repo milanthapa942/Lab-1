@@ -51,7 +51,7 @@ In addition to forming the visible pumpkin, this layer provides the **colour vis
 
 ## Layer 3 — Background Layer
 
-![tiggas in paris](1000016020.jpg)
+![tiggas in paris](Images/1000013718.jpg)
 **Position:** Rear
 
 The third layer consists of a **single, uncut sheet of grey cardstock**.
