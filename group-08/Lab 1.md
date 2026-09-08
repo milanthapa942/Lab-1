@@ -77,8 +77,8 @@ The green layer represents the forest and mountains. Trees and other details wer
 ## Construction 2: Logo
 
 ### Overview
-![alt text](<WhatsApp Image 2026-09-08 at 2.47.55 PM.jpeg>)
 
+![alt text](<WhatsApp Image 2026-09-08 at 2.47.55 PM.jpeg>)
 The second construction is a logo made using three layers of cardstock.
 
 ### Layer Configuration
